@@ -22,8 +22,8 @@ mvn spring-boot:run
 3. Payload Body form-data 
     - Key : file 
     - value : csv (Before Eod.csv) (src/main/resource/Before Eod.csv)
-    
-    ![Screenshot from 2022-09-06 14-24-03](https://user-images.githubusercontent.com/19750255/188572516-1a376484-98e9-43b4-9ff8-dd6a8ed270fe.png)
+
+![Screenshot from 2022-09-06 14-24-03](https://user-images.githubusercontent.com/19750255/188572516-1a376484-98e9-43b4-9ff8-dd6a8ed270fe.png)
 
 
 ## Response API 
