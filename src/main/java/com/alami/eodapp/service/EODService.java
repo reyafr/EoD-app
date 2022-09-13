@@ -23,7 +23,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class EODService {
 
-    private static Integer countPoolThread = 10;
+    private static Integer countPoolThread = 11;
 
     public List<EoDAfter> averageBalance(List<EoDAfter> request) {
         List<EoDAfter> EoDAfter = new ArrayList<>();
