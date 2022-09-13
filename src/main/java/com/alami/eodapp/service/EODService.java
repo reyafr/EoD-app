@@ -23,7 +23,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class EODService {
 
-    private static Integer countPoolThread = 8;
+    private static Integer countPoolThread = 10;
 
     public List<EoDAfter> averageBalance(List<EoDAfter> request) {
         List<EoDAfter> EoDAfter = new ArrayList<>();
@@ -114,11 +114,11 @@ public class EODService {
                 for (EoDAfter o : EoDAfter) {
                     service.submit(new Runnable() {
                         @Override
-                        public void run() { 
+                        public void run() {
                             if(Integer.valueOf(o.getId())<=100){
                                 o.setNo3ThreadNo(Thread.currentThread().getName());
                                 o.setBalanced(String.valueOf(Integer.valueOf(o.getBalanced())+10));
-                            } 
+                            }
                         }
                     });
                     try {
