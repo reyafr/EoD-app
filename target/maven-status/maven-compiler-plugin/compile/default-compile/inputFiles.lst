@@ -1,7 +1,7 @@
-/home/rey/IdeaProjects/alami/EoD-app/src/main/java/com/alami/eodapp/controller/EODAlamiController.java
-/home/rey/IdeaProjects/alami/EoD-app/src/main/java/com/alami/eodapp/object/EoDBefore.java
-/home/rey/IdeaProjects/alami/EoD-app/src/main/java/com/alami/eodapp/AlamiEodAppApplication.java
-/home/rey/IdeaProjects/alami/EoD-app/src/main/java/com/alami/eodapp/servicethread/AverageBalance.java
-/home/rey/IdeaProjects/alami/EoD-app/src/main/java/com/alami/eodapp/service/EODService.java
-/home/rey/IdeaProjects/alami/EoD-app/src/main/java/com/alami/eodapp/object/EoDAfter.java
-/home/rey/IdeaProjects/alami/EoD-app/src/main/java/com/alami/eodapp/utils/UtilConvert.java
+/home/rey/IdeaProjects/EoD-app/src/main/java/com/alami/eodapp/service/EODService.java
+/home/rey/IdeaProjects/EoD-app/src/main/java/com/alami/eodapp/AlamiEodAppApplication.java
+/home/rey/IdeaProjects/EoD-app/src/main/java/com/alami/eodapp/object/EoDBefore.java
+/home/rey/IdeaProjects/EoD-app/src/main/java/com/alami/eodapp/utils/UtilConvert.java
+/home/rey/IdeaProjects/EoD-app/src/main/java/com/alami/eodapp/servicethread/AverageBalance.java
+/home/rey/IdeaProjects/EoD-app/src/main/java/com/alami/eodapp/object/EoDAfter.java
+/home/rey/IdeaProjects/EoD-app/src/main/java/com/alami/eodapp/controller/EODAlamiController.java
