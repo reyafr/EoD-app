@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AlamiEodAppApplication {
 
     public static void main(String[] args) {
+        // this unit test
         SpringApplication.run(AlamiEodAppApplication.class, args); 
     }
 
